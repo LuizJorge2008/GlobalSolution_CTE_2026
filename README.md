@@ -19,7 +19,7 @@ O sistema permite que o usuário informe diferentes leituras de temperatura, PM2
 Ao final, apresenta uma classificação geral das condições ambientais e gera automaticamente um relatório em formato .txt com os resultados da análise. A aplicação possui finalidade acadêmica e utiliza dados simulados, não substituindo avaliações ambientais profissionais.
 
 
-INSTRUCOE DE USO DO PROGRAMA
+INSTRUCOES DE USO DO PROGRAMA
 Passo 1: Baixe o arquivo GS.py disponível neste repositório.
 Passo 2: Abra a pasta do projeto no Visual Studio Code.
 Passo 3: Abra o terminal e execute o comando:
