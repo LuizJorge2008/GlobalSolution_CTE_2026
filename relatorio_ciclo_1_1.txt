@@ -1,0 +1,44 @@
+============================================================
+CENTRAL DE MONITORAMENTO AMBIENTAL
+Ciclo: 1
+Ambiente: Sala de estudos comunitaria climatizada
+Quantidade de leituras: 3
+
+LIMITES DE REFERENCIA ADOTADOS
+Temperatura: 24.0 a 27.0 °C
+PM2.5: ate 15.0 ug/m3 (media de 24 horas)
+Ruido: ate 35.0 dB(A) (periodo de estudos)
+
+ESTATISTICAS
+Temperatura: media=61.67 °C; maior=120.00 °C; menor=25.00 °C
+PM2.5: media=24.67 ug/m3; maior=50.00 ug/m3; menor=9.00 ug/m3
+Ruido: media aritmetica simplificada=37.00 dB(A); maior=40.00; menor=35.00
+
+OCORRENCIAS CRITICAS POR PARAMETRO
+Temperatura: 2
+PM2.5: 1
+Ruido: 2
+Leituras com pelo menos uma condicao critica: 3
+Percentual de leituras criticas: 100.00%
+
+Estado geral: condicoes ambientais de atencao, com frequencia de ocorrencias acima do criterio estabelecido
+
+DETALHAMENTO DAS LEITURAS E ALERTAS
+Leitura 1: 25.00 °C; PM2.5=9.00 ug/m3; ruido=36.00 dB(A)
+  ALERTA: Nivel de ruido elevado em relacao ao limite definido
+Leitura 2: 40.00 °C; PM2.5=15.00 ug/m3; ruido=35.00 dB(A)
+  ALERTA: Temperatura fora dos limites estabelecidos
+Leitura 3: 120.00 °C; PM2.5=50.00 ug/m3; ruido=40.00 dB(A)
+  ALERTA: Temperatura fora dos limites estabelecidos
+  ALERTA: Concentracao de PM2.5 acima do limite adotado
+  ALERTA: Nivel de ruido elevado em relacao ao limite definido
+
+OBSERVACOES
+- Esta e uma simulacao didatica baseada nos criterios adotados.
+- A classificacao nao e certificacao de seguranca ambiental.
+- O criterio de 30% e didatico, nao um limite oficial.
+- A media aritmetica de valores de ruido em dB e apenas
+  estatistica descritiva simplificada; nao e nivel sonoro
+  equivalente nem avaliacao de exposicao acustica.
+- Cada valor de PM2.5 representa uma media de 24 horas.
+============================================================
